@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pearl
+  - shark
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 1120697167
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: plan1
+    uniqueID: 1356080209
+    locked: 0
+  - name: Fish
+    uniqueID: 1277379665
+    locked: 0
+  - name: plan0
+    uniqueID: 3310093887
+    locked: 0
